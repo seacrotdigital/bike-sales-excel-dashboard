@@ -30,10 +30,10 @@ To analyze customer purchasing behaviour and identify patterns across demographi
 ## Key Insight
 Middle-aged customers show the highest purchase conversion rate across multiple income categories.
 
-## Next Steps
-- Rebuild this dashboard in Power BI
-- Add trend-based insights and forecasting
-
+## Dashboard Preview
+<p align="center">
+  <img width="907" height="533" alt="dashboard" src="https://github.com/user-attachments/assets/4a8dd5de-4c8a-47b4-b7db-d8e61a2423f8" />
+</p>
 ---
 
 **Author:** Babatunde Raphael Deyon  
